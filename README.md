@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Solomon Ayodele Ogunyeye
 
-<!--
-**solomonogunyeye/solomonogunyeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Data Analyst skilled in Excel/sheets, SQL, and Tableau.
+I focus on transforming raw datasets into structured, insight-driven reports.
 
-Here are some ideas to get you started:
+## Skills
+- SQL (Joins, CTEs, Window Functions)
+- Excel (Data Cleaning, Pivot Tables, Power Query)
+- Tableau (Interactive Dashboards)
+- Data Cleaning & Structuring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 1. Superstore Sales Analysis
+Tools: SQL, Tableau
+- Cleaned and structured 10k+ rows
+- Identified regional profitability gaps
+- Built interactive performance dashboard
+
+### 2. Olist Customer Analysis
+Tools: SQL, Tableau
+- Cleaned and sorted 10k+ rows
+- Used window functions to identify churn risk segments
+- Built interactive performance dashboard
+  
+### 3. NYC AirBnB Analysis
+Tools: SQL, Tableau
+ - Cleaned and structured multiple rows of data
+ - used window funtions and sql queries to identify sales metrics and consumer behaviour
+
+## Contact
+Email: saolad1@hotmail.com
