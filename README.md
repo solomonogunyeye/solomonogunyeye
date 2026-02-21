@@ -25,9 +25,14 @@ Tools: SQL, Tableau
 - Built interactive performance dashboard
   
 ### 3. NYC AirBnB Analysis
-Tools: SQL, Tableau
+Tools: SQL
  - Cleaned and structured multiple rows of data
- - used window funtions and sql queries to identify sales metrics and consumer behaviour
+ - used window funtions to identify sales metrics and consumer behaviour
+   
+### 4. Walmart Sales Dashboard
+Tools: SQL, Tableau
+- Extracted required information with SQL
+- Built an interactive dashboard
 
 ## Contact
 Email: saolad1@hotmail.com
