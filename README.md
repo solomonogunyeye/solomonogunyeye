@@ -17,22 +17,22 @@ Tools: SQL, Tableau
 - Cleaned and structured 10k+ rows
 - Identified regional profitability gaps
 - Built interactive performance dashboard
-
+- 
 ### 2. Olist Customer Analysis
-Tools: SQL, Tableau
-- Cleaned and sorted 10k+ rows
-- Used window functions to identify churn risk segments
-- Built interactive performance dashboard
-  
+Tools: SQL, Tableau  
+- Cleaned and structured 10k+ rows of customer data  
+- Used window functions to identify high-risk churn segments  
+- Built an interactive performance dashboard to visualize insights
+
 ### 3. NYC AirBnB Analysis
-Tools: SQL
- - Cleaned and structured multiple rows of data
- - used window funtions to identify sales metrics and consumer behaviour
-   
+Tools: SQL  
+- Cleaned and organized multiple datasets  
+- Applied window functions to calculate sales metrics and analyze consumer behavior  
+
 ### 4. Walmart Sales Dashboard
-Tools: SQL, Tableau
-- Extracted required information with SQL
-- Built an interactive dashboard
+Tools: SQL, Tableau  
+- Extracted and structured sales data using SQL  
+- Developed a structured, interactive dashboard for business insights
 
 ## Contact
 Email: saolad1@hotmail.com
