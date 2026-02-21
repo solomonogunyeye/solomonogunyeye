@@ -13,24 +13,24 @@ I focus on transforming raw datasets into structured, insight-driven reports.
 ## Featured Projects
 
 ### 1. Superstore Sales Analysis
-Tools: SQL, Tableau
+Tools: Sheets, SQL, Tableau
 - Cleaned and structured 10k+ rows
 - Identified regional profitability gaps
 - Built interactive performance dashboard
 - 
 ### 2. Olist Customer Analysis
-Tools: SQL, Tableau  
+Tools: Sheets, SQL, Tableau  
 - Cleaned and structured 10k+ rows of customer data  
 - Used window functions to identify high-risk churn segments  
 - Built an interactive performance dashboard to visualize insights
 
 ### 3. NYC AirBnB Analysis
-Tools: SQL  
+Tools: sheets, SQL  
 - Cleaned and organized multiple datasets  
 - Applied window functions to calculate sales metrics and analyze consumer behavior  
 
 ### 4. Walmart Sales Dashboard
-Tools: SQL, Tableau  
+Tools: Sheets, SQL, Tableau  
 - Extracted and structured sales data using SQL  
 - Developed a structured, interactive dashboard for business insights
 
