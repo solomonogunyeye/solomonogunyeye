@@ -17,7 +17,7 @@ Tools: Sheets, SQL, Tableau
 - Cleaned and structured 10k+ rows.
 - Identified regional profitability gaps.
 - Built interactive performance dashboard.
-- 
+  
 ### 2. Olist Customer Analysis
 Tools: Sheets, SQL, Tableau  
 - Cleaned and structured 10k+ rows of customer data.
