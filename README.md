@@ -1,4 +1,4 @@
-# Hi, I'm Solomon Ayodele Ogunyeye
+# I'm Solomon Ayodele Ogunyeye
 
 ## About Me
 Data Analyst skilled in Excel/sheets, SQL, and Tableau.
